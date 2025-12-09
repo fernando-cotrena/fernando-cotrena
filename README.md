@@ -1,35 +1,55 @@
-# 👋 Hola, soy Fernando Cotrena  
-**QA Automation Engineer ⚡ | Especializado en pruebas funcionales, de carga y automatización**
+🧪 QA Automation Lab
 
-> "La calidad no es un destino, es un camino continuo.  
-> Con las herramientas correctas, la automatización transforma ideas en software confiable."
+Automation, performance and quality engineering experiments by Fernando Cotrena
+Practical examples of scalable test automation and performance testing.
 
----
+🌐 Connect
 
-## 🛠 Tecnologías & Herramientas
+🎯 Purpose of this Repository
 
-- **Pruebas funcionales:** Cypress, Pytest, Playwright, Selenium  
-- **Performance testing:** Locust, K6  
-- **API & Contract testing:** REST Assured, Pytest + assert_that  
-- **Frameworks & metodologías:** POM, Serenity BDD, TDD, BDD  
-- **Otros:** CI/CD, Reporting, IA aplicada al QA  
+This repository is a technical playground focused on exploring and demonstrating best practices in QA Automation and Performance Testing.
 
----
+It contains real-world examples designed to:
 
-## 🚀 Sobre mí
+Validate functional and non-functional requirements
 
-Soy **QA Automation Engineer con más de 10 años de experiencia** en el diseño, desarrollo y mantenimiento de frameworks de automatización.  
-Me apasiona integrar las mejores prácticas de calidad con herramientas modernas para garantizar productos confiables y escalables.  
+Scale test execution efficiently
 
-Mi enfoque combina:  
-- 🧪 **Automatización robusta:** diseño de frameworks modulares y reutilizables  
-- 🌍 **Pruebas de carga y performance:** simulación de alto volumen de usuarios  
-- 🎭 **Pruebas E2E cross-browser:** validación de experiencias completas de usuario  
-- 📊 **Estrategias de reporting y métricas:** visibilidad y trazabilidad para los equipos  
-- 🤖 **Exploración de IA en QA:** optimización del análisis de resultados y validación inteligente  
+Provide clear reporting and actionable feedback
 
----
+🏗 What You’ll Find Here
 
-## 🌐 Conectemos
+🧪 Functional Test Automation
+UI and API automation using modern, maintainable patterns
 
-[![LinkedIn](https://img.shields.io/badge/-Fernando%20Cotrena-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cotrena-70b0bb197/)  
+⚡ Performance & Load Testing
+High-concurrency scenarios, stress tests and metrics analysis
+
+🎭 End-to-End Scenarios
+Real user flows validated across layers and environments
+
+📊 Reports & Metrics
+Test results focused on insights, not just pass/fail
+
+🤖 QA + AI Experiments
+Applying AI to improve test coverage, result analysis and productivity
+
+🛠 Tech Stack
+
+Automation
+
+Cypress · Playwright · Selenium · Pytest
+
+Performance
+
+Locust · k6
+
+API & Contracts
+
+REST Assured · Pytest assertions
+
+Patterns & Practices
+
+POM · BDD · TDD · Serenity BDD
+
+CI/CD · Reporting · Test Strategy · AI for QA
