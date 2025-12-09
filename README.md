@@ -7,6 +7,8 @@ Practical examples of scalable test automation and performance testing.
 🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario)
 
 
+
+
 🎯 Purpose of this Repository
 
 This repository is a technical playground focused on exploring and demonstrating best practices in QA Automation and Performance Testing.
