@@ -3,8 +3,8 @@
 Automation, performance and quality engineering experiments by Fernando Cotrena
 Practical examples of scalable test automation and performance testing.
 
-## 🤝 Let’s connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+## 🤝 Let’s connect  🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+
 
 
 
