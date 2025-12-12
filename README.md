@@ -46,7 +46,7 @@ Cypress · Playwright · Selenium · Pytest
 
 Performance
 
-Locust · k6
+Locust
 
 API & Contracts
 
@@ -54,6 +54,6 @@ REST Assured · Pytest assertions
 
 Patterns & Practices
 
-POM · BDD · TDD · Serenity BDD
+POM · BDD · Serenity BDD
 
 CI/CD · Reporting · Test Strategy · AI for QA
